@@ -1,2 +1,5 @@
 .DS_Store
 .idea
+runner/__pycache__/
+testcase/__pycache__/
+util/__pycache__/
